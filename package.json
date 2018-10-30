@@ -4,7 +4,7 @@
   "description": "Export dialog-mega-wasana results in json",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js"
+    "start": "node index.js"
   },
   "author": "CharukaHS <charuka12@gmail.com>",
   "license": "MIT",
