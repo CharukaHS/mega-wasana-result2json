@@ -1,0 +1,18 @@
+{
+  "name": "mega-wasana-result2json",
+  "version": "1.0.0",
+  "description": "Export dialog-mega-wasana results in json",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js"
+  },
+  "author": "CharukaHS <charuka12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "node-cron": "^2.0.1",
+    "parse5": "^5.1.0"
+  }
+}
